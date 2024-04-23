@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vs5ndvYOkqxgiVYo2DDVeJusLwS5Q3J7Ty2qEzjwTrecKA/MOysN7z+YfNgI3/oEeV6TOkTjzYGXGn0LabH4Iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ghost\\source\\repos\\UAssetAPI\\VotV\\VotV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ghost\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

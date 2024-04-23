@@ -1,0 +1,3 @@
+C:\Users\Ghost\source\repos\UAssetAPI\VotV\bin\Release\net6.0\publish\win-x64\VotV.pdb
+C:\Users\Ghost\source\repos\UAssetAPI\VotV\bin\Release\net6.0\publish\win-x64\UAssetAPI.pdb
+C:\Users\Ghost\source\repos\UAssetAPI\VotV\bin\Release\net6.0\publish\win-x64\VotV.exe

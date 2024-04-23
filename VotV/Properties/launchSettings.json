@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "VotV": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Games\\Voices of the void\\pa07_0011\\pa07_0011_FusionTestR2Modman\\WindowsNoEditor\\VotV\\Binaries\\Win64\" \"D:\\Games\\Voices of the void\\Mods\\VotV\\profiles\\FusionTest\\shimloader\\mod\" \"D:\\Games\\Voices of the void\\Mods\\VotV\\profiles\\FusionTest\\shimloader\\pak\" \"D:\\Games\\Voices of the void\\Mods\\VotV\\profiles\\FusionTest\\shimloader\\cfg\"",
+      "workingDirectory": "D:\\Games\\Voices of the void\\Mods\\VotV\\profiles\\FusionTest\\shimloader\\mod\\NynrahGhost-Fusion"
+    }
+  }
+}

@@ -71,7 +71,7 @@ namespace UAssetAPI.UnrealTypes
         /// <summary>
         /// Index into the name map of <see cref="Asset"/> that this FName points to.
         /// </summary>
-        internal int Index
+        public int Index
         {
             get
             {
